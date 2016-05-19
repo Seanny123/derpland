@@ -1,4 +1,4 @@
-import derp
+import derp.herp
 
 def test_shoop():
     derp.herp.shoop()
